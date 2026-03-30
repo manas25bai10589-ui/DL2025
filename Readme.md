@@ -61,7 +61,7 @@ This repository contains my Digital Literacy Portfolio for CSE0001. As part of t
 - **GitHub Profile:** https://github.com/manas25bai10589-ui/
 - **LinkedIn:** https://www.linkedin.com/in/manas-solanki-68976b298/
 - **Digital Literacy Quiz (Google Form):** *https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform*
-
+-  **Research gate :**https://www.researchgate.net/profile/Manas-Solanki-2?ev=hdr_xprf
 ---
 
 ## Academic Integrity
