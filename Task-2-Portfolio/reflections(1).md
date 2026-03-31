@@ -4,13 +4,14 @@
 
 ## Platforms Set Up
 
-### 1. GitHub — github.com/swastik-2508
-GitHub is a version control and code hosting platform used by developers worldwide. I have 6 public repositories including a media bias analysis tool, a finance manager, a Pomodoro timer, and a CLI problem tracker. I have also set up a profile README at `swastik-2508/swastik-2508`.
+### 1. GitHub — github.com/manas25bai10589-ui
 
-### 2. LinkedIn — linkedin.com/in/swastik2508/
+GitHub is a version control and code hosting platform used by developers worldwide. I have 6 public repositories including a media bias analysis tool, a finance manager, a Pomodoro timer, and a CLI problem tracker. I have also set up a profile README at 'manas25bai10589-ui`.
+
+### 2. LinkedIn — www.linkedin.com/in/manas-solanki-68976b298/
 LinkedIn is the primary professional networking platform for students, job seekers, and industry professionals. Recruiters and internship coordinators use it to discover candidates. I have filled in my Education section with my current degree, institution (VIT Bhopal University), and expected graduation year (2029).
 
-### 3. ResearchGate — researchgate.net/profile/Swastik-Barik
+### 3. ResearchGate — https://www.researchgate.net/profile/Manas-Solanki-2?ev=hdr_xprf
 ResearchGate is a professional networking site designed specifically for the scientific and academic communities. Launched in 2008, it functions similarly to LinkedIn but focuses entirely on researchers, professors, and students who want to share and discover scholarly work
 
 ## Screenshots
