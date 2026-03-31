@@ -1,7 +1,7 @@
 # Social Media Do's and Don'ts for College Students
 
 **CSE0001 – Digital Literacy | Task 4 Part B**
-**Swastik Kumar Barik | 25BOE10064**
+**Manas Solanki | 25BAI10589**
 
 ---
 
